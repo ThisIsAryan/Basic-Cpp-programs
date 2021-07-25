@@ -56,9 +56,9 @@ int main()
     int a,b;
     cout<<"Enter the values of a and b\n";
     cin>>a>>b;//say a = 2, b=3.
-    cout<<"The value of a*b= "<<product(a,b)<<endl; //returns 7
-    cout<<"The value of a*b= "<<product(a,b)<<endl; //returns 8
-    cout<<"The value of a*b= "<<product(a,b)<<endl; //returns 9
-    cout<<"The value of a*b= "<<product(a,b)<<endl; //returns 10
+    cout<<"The value of a*b= "<<product(a,b)<<endl;
+    cout<<"The value of a*b= "<<product(a,b)<<endl;
+    cout<<"The value of a*b= "<<product(a,b)<<endl;
+    cout<<"The value of a*b= "<<product(a,b)<<endl; 
     return 0;
 }
